@@ -10,6 +10,7 @@ This repository contains Garage Application with Spring Boot,
 [Run Tests](#runtests)<br>
 [Installing](#installing)<br>
 [Run Project](#run)<br>
+[End Points](#endpoints)<br>
 
 <a name="technologies"/></a>
 ## Technologies
