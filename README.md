@@ -95,7 +95,7 @@ JSON Response:
 1 slot is empty after removing ticket.
 ```
 
-### Leave
+### Status
 
 ```
 localhost:8080/ticket/status
