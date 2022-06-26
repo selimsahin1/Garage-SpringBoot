@@ -28,7 +28,7 @@ public class TicketService {
         try {
             setTicket(ticketRequest, availableSlots);
 
-            if (ticketRequest.getVehicleType().getText().equals("CAR")) {
+            if (ticketRequest.getVehicleType().getText().equals("Car")) {
                 return "Allocated one slot.";
             } else
                 return "Allocated " + ticketRequest.getVehicleType().getValue() + " slots.";
@@ -54,7 +54,7 @@ public class TicketService {
         }
 
         if (ticket.getVehicleType().getValue() == 1) {
-            return "1 slot is empty after removing ticket";
+            return "1 slot is empty after removing ticket.";
         } else
             return ticket.getVehicleType().getValue() + " slots is empty after removing ticket.";
     }
