@@ -11,6 +11,7 @@ This repository contains Garage Application with Spring Boot,
 [Installing](#installing)<br>
 [Run Project](#run)<br>
 [End Points](#endpoints)<br>
+[Postman Collection](#postman)<br>
 
 <a name="technologies"/></a>
 ## Technologies
@@ -137,3 +138,6 @@ JSON Response:
 ]
 ```
     
+<a name="postman"/></a>
+## Postman Collection
+  * Postman collection is in the project folder named Garage.postman_collection.json.
